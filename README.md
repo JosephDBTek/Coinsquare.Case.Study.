@@ -1,5 +1,7 @@
 # Coinsquare.Case.Study.
-A detailed and up-to-date analysis of the fin-tech firm Coinsquare. 
+
+## A detailed and up-to-date analysis of the fin-tech firm Coinsquare. 
+
 Case Study: COINSQUARE
 
 *Name of Company 
