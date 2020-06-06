@@ -84,9 +84,9 @@ Offering different mechanisms for performing analysis on their platform would su
 
 ## Summary 
 
-*Coinsquare is a dynamic and adaptable, mid-sized company with a stellar reputation and well established leader within the Canadian Fin-Tech community. They are positioned perfectly for growth within the Canadian markets, but are also in the process of expanding overseas. They execute their trades using a proprietary technology developed by their founder, Virgile Rostand and they have a stellar track record for security and overall integrity. Since Coinsquare was founded in 2014, they have expanded their products/services to include items like Coincapital, which offer investment products focused on emerging technologies like blockchain development and artificial intelligence. They have also cemented Canada's position as a leader within the Crypto-Community. 
+>Coinsquare is a dynamic and adaptable, mid-sized company with a stellar reputation and well established leader within the Canadian Fin-Tech community. They are positioned perfectly for growth within the Canadian markets, but are also in the process of expanding overseas. They execute their trades using a proprietary technology developed by their founder, Virgile Rostand and they have a stellar track record for security and overall integrity. Since Coinsquare was founded in 2014, they have expanded their products/services to include items like Coincapital, which offer investment products focused on emerging technologies like blockchain development and artificial intelligence. They have also cemented Canada's position as a leader within the Crypto-Community. 
 
-##Sources 
+## Sources 
 
 - (https://news.coinsquare.com/digital-currency/coinsquare-founder-virgile-rostand-cryptocurrency/)
 
